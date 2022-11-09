@@ -1,0 +1,7 @@
+payment_details,,,
+Price,Trnasaction_ID,Transaction_date,Transaction_status
+350,992,10/10/2022,successful
+200,765,11/10/2022,pending
+100,432,5/10/2022,successful
+500,321,8/10/2022,successful
+,,,

@@ -1,0 +1,7 @@
+Delivery_details,,,
+Recipient_name,import_status,delivery_date,Shipping_address
+ravi,shpping,10/20/2022,chicago
+vamsi,packed,11/20/2022,texas
+siva,started to deliver,5/20/2022,florida
+chandu,deliverd,8/20/2022,newyork
+,,,
