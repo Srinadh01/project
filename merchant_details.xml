@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Store_ID>101</Store_ID>
+    <Store_name>Toy_villa</Store_name>
+    <store_location>california</store_location>
+    <store_phnnumber>3451238901</store_phnnumber>
+  </row>
+  <row>
+    <Store_ID>102</Store_ID>
+    <Store_name>action_toys</Store_name>
+    <store_location>florida</store_location>
+    <store_phnnumber>6677889900</store_phnnumber>
+  </row>
+  <row>
+    <Store_ID>103</Store_ID>
+    <Store_name>kids wonders</Store_name>
+    <store_location>newyork</store_location>
+    <store_phnnumber>1122334455</store_phnnumber>
+  </row>
+  <row>
+    <Store_ID>104</Store_ID>
+    <Store_name>toys and co</Store_name>
+    <store_location>chicago</store_location>
+    <store_phnnumber>9988334455</store_phnnumber>
+  </row>
+</root>

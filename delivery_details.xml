@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<root>
+<row>
+  <Recipient_name>ravi</Recipient_name>
+  <import_status>shpping</import_status>
+  <delivery_date>10/20/2022</delivery_date>
+  <Shipping_address>chicago</Shipping_address>
+</row>
+<row>
+  <Recipient_name>vamsi</Recipient_name>
+  <import_status>packed</import_status>
+  <delivery_date>11/20/2022</delivery_date>
+  <Shipping_address>texas</Shipping_address>
+</row>
+<row>
+  <Recipient_name>siva</Recipient_name>
+  <import_status>started to deliver</import_status>
+  <delivery_date>5/20/2022</delivery_date>
+  <Shipping_address>florida</Shipping_address>
+</row>
+<row>
+  <Recipient_name>chandu</Recipient_name>
+  <import_status>deliverd</import_status>
+  <delivery_date>8/20/2022</delivery_date>
+  <Shipping_address>newyork</Shipping_address>
+</row>
+</root>

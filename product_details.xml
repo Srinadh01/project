@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Product_id>111</Product_id>
+    <product_name>dolphin</product_name>
+    <quantity>2</quantity>
+    <availability>yes</availability>
+  </row>
+  <row>
+    <Product_id>222</Product_id>
+    <product_name>octopus</product_name>
+    <quantity>5</quantity>
+    <availability>yes</availability>
+  </row>
+  <row>
+    <Product_id>333</Product_id>
+    <product_name>starfish</product_name>
+    <quantity>1</quantity>
+    <availability>yes</availability>
+  </row>
+  <row>
+    <Product_id>444</Product_id>
+    <product_name>mermaid</product_name>
+    <quantity>3</quantity>
+    <availability>yes</availability>
+  </row>
+</root>

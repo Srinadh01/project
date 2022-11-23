@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<root>
+<row>
+  <Customer_name>ravi</Customer_name>
+  <Account_ID>123</Account_ID>
+  <Phone_number>9876543210</Phone_number>
+  <Location>chicago </Location>
+</row>
+<row>
+  <Customer_name>vamsi</Customer_name>
+  <Account_ID>456</Account_ID>
+  <Phone_number>2345678901</Phone_number>
+  <Location>texas</Location>
+</row>
+<row>
+  <Customer_name>srinadh</Customer_name>
+  <Account_ID>789</Account_ID>
+  <Phone_number>4567832109</Phone_number>
+  <Location>boston</Location>
+</row>
+<row>
+  <Customer_name>Chandu</Customer_name>
+  <Account_ID>12</Account_ID>
+  <Phone_number>678901234</Phone_number>
+  <Location>newyork</Location>
+</row>
+</root>
